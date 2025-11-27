@@ -1,4 +1,4 @@
-# Modify these paths to match your environment
+# Modify these paths to match your environment.
 $BookNotes =  Get-ChildItem -Recurse -Path "V:\Repositories\Personal\KoReaderHighlightsImport\Inbox" -Filter "*.json"
 $OutputFolder = "V:\Obsidian Vaults\SynapseGarden\INBOX\"
 
