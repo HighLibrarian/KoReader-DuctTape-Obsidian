@@ -44,5 +44,10 @@ This PowerShell script processes JSON highlight files exported from KoReader and
 Ensure that the JSON files exported from KoReader follow the expected structure used by the script.
 The script assumes that the output folder exists. If it doesn't, create it manually or modify the script to handle folder creation.
 
+
+
+⚠️This is a quick-and-dirty solution for a very niche problem that scratched my own itch.
+Fair warning: I’m not actively watching issues or PRs… but feel free to open them! I might even look at them if the stars align.
+
 ---
 Enjoy using your KoReader highlights in Obsidian!
